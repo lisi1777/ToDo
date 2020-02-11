@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="create_button_text">Create</string>
+    <string name="save_button_text">Save</string>
+    <string name="content_window_text">Content</string>
+    <string name="title_create_window">Title</string>
+    <string name="delete_button">Delete</string>
+    <string name="update_button">Update</string>
+    <string name="home_button">Home</string>
+    <string name="yes_button">Yes</string>
+    <string name="no_button">No</string>
+    <string name="popup_title">Delete</string>
+    <string name="popup_message">Do you really want to remove this ToDo?</string>
+
+</resources>

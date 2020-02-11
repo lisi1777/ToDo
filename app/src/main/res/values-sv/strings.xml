@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AttGöraLista</string>
+    <string name="create_button_text">Skapa</string>
+    <string name="save_button_text">Spara</string>
+    <string name="content_window_text">Innehåll</string>
+    <string name="title_create_window">Titel</string>
+    <string name="delete_button">Ta bort</string>
+    <string name="update_button">Uppdatera</string>
+    <string name="home_button">Hem</string>
+    <string name="yes_button">Ja</string>
+    <string name="no_button">Nej</string>
+    <string name="popup_title">Ta bort</string>
+    <string name="popup_message">Vill du verkligen ta bort denna AttGöra?</string>
+</resources>
